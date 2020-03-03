@@ -1,5 +1,5 @@
 # Portfolio
  Portfolios from Seyeon, Oh.
  
- #Copyright
+ # Copyright
  copyright 2020. Seyeon, Oh
